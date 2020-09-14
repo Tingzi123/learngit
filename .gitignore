@@ -1,0 +1,6 @@
+##ignore this file##
+.class
+.log
+.jar
+.war
+/.mtj.tmp/*
